@@ -16,6 +16,32 @@ With 20+ years of experience architecting scalable, secure, and cloud-native sol
 - **AI/ML Implementation**: Driving GenAI adoption, prompt engineering, and AI-enabled developer productivity
 - **Technical Leadership**: Mentoring architects, leading cross-functional teams, and establishing best practices
 
+### 🏗️ Enterprise Architecture Responsibilities
+
+**Strategy & Governance**
+- Develop and maintain enterprise technology roadmaps aligned with business objectives
+- Establish architectural governance frameworks and review boards
+- Create and enforce enterprise architecture standards and principles
+- Conduct vendor assessments and technology selection for enterprise solutions
+
+**Business & Technology Alignment**
+- Perform business capability mapping and gap analysis
+- Lead stakeholder engagement across business units and IT teams
+- Translate business requirements into technical architecture solutions
+- Ensure technology investments support long-term strategic goals
+
+**Portfolio & Risk Management**
+- Drive legacy modernization and cloud migration strategies
+- Conduct TCO analysis and technology rationalization initiatives
+- Implement security frameworks including zero-trust architecture
+- Ensure regulatory compliance and risk mitigation across systems
+
+**Innovation & Enablement**
+- Evaluate emerging technologies (AI/ML, GenAI, cloud-native solutions)
+- Champion digital transformation initiatives across the organization
+- Mentor solution architects and establish communities of practice
+- Foster innovation while maintaining operational excellence
+
 ### 💼 Current Focus
 
 - Leading centralized authorization platform adoption across enterprise applications
@@ -44,15 +70,25 @@ With 20+ years of experience architecting scalable, secure, and cloud-native sol
 **DevOps & Tools**
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **AI/ML & Security**
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/Generative_AI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-2.0-3C873A?style=for-the-badge&logo=auth0&logoColor=white)
+
+**Monitoring & Project Management**
+
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![AppDynamics](https://img.shields.io/badge/AppDynamics-0078D7?style=for-the-badge&logo=appdynamics&logoColor=white)
+![Monday](https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge&logo=monday&logoColor=white)
 
 ### 📜 Certifications
 
@@ -75,7 +111,7 @@ With 20+ years of experience architecting scalable, secure, and cloud-native sol
 
 ### 📍 Location
 
-Hilliard, Ohio | Open to remote collaboration
+Hilliard, Ohio 
 
 ---
 
